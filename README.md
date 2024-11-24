@@ -1,6 +1,6 @@
 ---
-title: "Welcome to ilssear's GitHub.io pages"
 layout: default
+title: "Welcome to ilssear's GitHub.io pages"
 ---
 
 # ilssear.github.io
