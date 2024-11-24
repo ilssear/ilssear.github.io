@@ -1,3 +1,8 @@
+---
+title: "From Quantum Mechanics to Our Current Understanding of Cognition"
+layout: default
+---
+
 
 # From Quantum Mechanics to Our Current Understanding of the Physical Nature of Cognition and Biology: A Curated Bibliography
 
