@@ -7,7 +7,7 @@ title: "Welcome to ilssear's GitHub.io pages"
 ilssear's public pages
 
 ## Quantum Wizards
-- Homework 01 [PDF](homework/Homework-001.html) [HTML](homework/HW1_Jim_Moraga_Q&D.pdf)
+- Homework 01 [HTML](homework/Homework-001.html) [PDF](homework/HW1_Jim_Moraga_Q&D.pdf)
 
 
 ## Ranting
